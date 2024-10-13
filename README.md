@@ -9,7 +9,8 @@
 
 **Output:** Number of intersection between the segments for each test case.
 
-This is a simple python implemintation 
+This is a simple python implemintation of the sweepline algorithm from Computational Geometry Algorithms and Applications, 3rd Ed - de Berg et al.
 Assumptions:
 1. Each intersection point is an intersection of exactly two segments.
 2. Each x value has at most one event (intersection point or a beginning or an end of a segment).
+
