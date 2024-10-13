@@ -6,7 +6,7 @@
 2. Number of segments in the current test
 3. Pairs of segments in the format: x1 y1 x2 y2
 4. -1
-(See test.txt for example - 5 testsets, each one contains 60 segments)
+(See test.txt for example - 5 testsets, each one contains 60 segments in [0, 20]x[0,20])
 
 **Output:** Number of intersection between the segments for each test case.
 
