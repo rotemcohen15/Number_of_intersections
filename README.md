@@ -1,12 +1,11 @@
 # A sweepline algorithm to find the number of line segment intersections
 **Problem:** Given $n$ line segments, efficiently find the number of intersection points in $\mathcal{O}((n + k) log n)$ where $k$ is the number of intersections.
 
-**Input:**
+**Input:** (See test.txt for example - 5 testsets, each one contains 60 segments in [0, 20]x[0,20])
 1. Number of tests
 2. Number of segments in the current test
 3. Pairs of segments in the format: x1 y1 x2 y2
 4. -1
-(See test.txt for example - 5 testsets, each one contains 60 segments in [0, 20]x[0,20])
 
 **Output:** Number of intersection between the segments for each test case.
 
